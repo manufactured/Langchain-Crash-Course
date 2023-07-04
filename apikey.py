@@ -1,1 +1,1 @@
-apikey = 'your apikey here'
+apikey = 'your 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 here'
